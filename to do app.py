@@ -1,5 +1,5 @@
 def task():
-    tasks = []  # Initialize an empty list to store tasks
+    tasks = [] 
     print("----WELCOME TO THE TASK MANAGEMENT APP----")
     total_task = int(input("Enter how many tasks you want to add = "))
     for i in range(1, total_task + 1):
